@@ -1,3 +1,6 @@
+[View Claude Chat](https://claude.ai/share/3967468b-b6b2-4197-806e-ffcc02cee72f)
+
+
 # SB8050 DevOps Practical: Exam Guide
 
 This guide covers Exercises 1 to 12 from the lab manual `DevOps.docx`.
